@@ -13,7 +13,7 @@ I separated a list of topics pointed out by Brian Voong from Let's build that Ap
 
 ## Goals
 
-- [  ] Junior
+- [ ] Junior
 
 Data persistance
 Networking
