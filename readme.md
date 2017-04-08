@@ -25,3 +25,9 @@ Maps
 
 - [ ] Middle
 - [ ] Senior
+
+## Study Projects
+
+- [Pokemon Go](https://github.com/hudsonpereira/pokemon-go-ios)
+
+Made with :heart: by [Hudson Pereira](https://github.com/hudsonpereira)
