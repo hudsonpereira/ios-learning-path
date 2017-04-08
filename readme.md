@@ -15,13 +15,20 @@ I separated a list of topics pointed out by Brian Voong from Let's build that Ap
 
 - [ ] Junior
 
-Data persistance
+:white_check_mark: Data persistance with Core Data 
+
 Networking
+
 Data Caching
+
 Image Caching
+
 Camera
+
 Table and Collection Views
-Maps
+
+:white_check_mark: Maps
+
 
 - [ ] Middle
 - [ ] Senior
