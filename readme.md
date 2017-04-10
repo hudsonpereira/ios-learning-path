@@ -25,7 +25,7 @@ Image Caching
 
 Camera
 
-Table and Collection Views
+:white_check_mark: Table and Collection Views
 
 :white_check_mark: Maps
 
@@ -36,5 +36,7 @@ Table and Collection Views
 ## Study Projects
 
 - [Pokemon Go](https://github.com/hudsonpereira/pokemon-go-ios)
+
+- [Pokedex](https://github.com/hudsonpereira/pokedex)
 
 Made with :heart: by [Hudson Pereira](https://github.com/hudsonpereira)
