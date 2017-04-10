@@ -9,7 +9,7 @@ You can check the courses I made [here](https://github.com/hudsonpereira/ios-lea
 
 ## Topics
 
-I separated a list of topics pointed out by Brian Voong from Let's build that App. Pretty good channel, not only because it has awesome technical content but because he's such an amazing mentor for the whole community.
+I separated a list of topics pointed out by Brian Voong from [Let's build that App](https://www.letsbuildthatapp.com). Pretty good channel, not only because it has awesome technical content but because he's such an amazing mentor for the whole community.
 
 ## Goals
 
