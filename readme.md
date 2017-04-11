@@ -1,4 +1,8 @@
 # My iOS Develop learning path
+
+![iOS Developer](images/ios-developer-banner.jpg)
+
+
 So, I'm really excited about becoming an iOS Developer. I bought my Mac mini a couple of years ago for this purpose but never had the chance to start some serious process towards learning it.
 
 I'm following a couple of new people, I will link them all here and really hope they won't mind it.
