@@ -39,4 +39,6 @@ Camera
 
 - [Pokedex](https://github.com/hudsonpereira/pokedex)
 
+- [FoodTracker](https://github.com/hudsonpereira/food-tracker)
+
 Made with :heart: by [Hudson Pereira](https://github.com/hudsonpereira)
